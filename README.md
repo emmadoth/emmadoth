@@ -1,6 +1,6 @@
 hi im emma. she/her
 
-i do things in c, sometimes in assembly and, very occasionally, rust
+i do things in c, sometimes in assembly and, very occasionally, C++
 
 <!---
 - 👋 Hi, I’m @emmadoth (she/her)
